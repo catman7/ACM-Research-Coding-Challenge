@@ -32,6 +32,10 @@ First, I notice how there are 2 "spots" or groupings on the graph which indicate
 
 Citations:
 Mallawaarachchi, V. (2020, June 21). How to Use DBSCAN Effectively. Retrieved September 07, 2020, from https://towardsdatascience.com/how-to-use-dbscan-effectively-ed212c02e62
+
+
 Yıldırım, S. (2020, April 22). DBSCAN Clustering - Explained. Retrieved September 07, 2020, from https://towardsdatascience.com/dbscan-clustering-explained-97556a2ad556
+
+
 Chauhan, N. (2020). DBSCAN Clustering Algorithm in Machine Learning. Retrieved September 07, 2020, from https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html
 
