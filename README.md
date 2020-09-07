@@ -20,3 +20,6 @@ Please follow the below instructions on how to submit your answers.
 Given the following dataset in `ClusterPlot.csv`, determine the number of clusters by using any clustering algorithm. **You're allowed to use any Python library you want to implement this**, just document which ones you used in this README file. Try to complete this as soon as possible.
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file.
+
+
+ANSWER: Although not entirely sure, to determine the number of clusters in this dataset I would implement a DBSCAN clustering algorithm. I got to this solution by researching about different clustering algorithms and saw how this one automatically determines the amount of clusters rather than K Means in which you have to guess and go through trial and error. Using DBSCAN we can identify outliers. I would set 
