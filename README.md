@@ -23,7 +23,7 @@ Regardless if you can or cannot answer the question, provide a short explanation
 
 
 
-ANSWER: 
+## ANSWER: 
 Libraries: sci-kit learn, numpy, matplotlib, & kneed.
 
 To determine the number of clusters in this dataset I would implement a DBSCAN clustering algorithm. I got to this solution by researching about different clustering algorithms, watching youtube videos, and saw how this one automatically determines the amount of clusters rather than K Means, in which you have to guess and go through trial and error without choice. DBSCAN allows us to find any cluster regardless of shape. 
